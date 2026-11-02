@@ -1,0 +1,41 @@
+
+body
+{
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Pacifico', sans-serif;
+
+
+}
+.header 
+{
+   
+    position: fixed;
+    background-color:black;
+    opacity: 0.8;
+    color: antiquewhite;
+    height: 50px;
+    width: cover;
+	border-left: 580px solid transparent;
+	border-right: 580px solid transparent;
+	border-top: 40px solid white;
+
+    
+}
+.link
+{
+  color:blanchedalmond;
+    background-color: rgba(0,0,0,0.5);
+    border-bottom-left-radius: 30%;
+         border-bottom-right-radius: 30%; 
+          border-top-right-radius: 30%;
+           border-top-left-radius: 30%;
+         
+}
+a{
+    text-decoration: none;
+}
